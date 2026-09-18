@@ -20,9 +20,9 @@ TraceLoom 是[沥泉科技](https://www.lichoin.com/)自研的 **AI 自动化源
 
 ## 已公开成果
 
-| CVE / GHSA | 受影响项目 | 严重程度 | 漏洞类型 | 公告链接 |
-| --- | --- | --- | --- | --- |
-| CVE-2026-34047 / GHSA-652w-qv22-2r7c | [coollabsio/coolify](https://github.com/coollabsio/coolify) | Critical | CWE-863 越权访问，可致远程代码执行 | [Security Advisory](https://github.com/coollabsio/coolify/security/advisories/GHSA-652w-qv22-2r7c) |
+| CVE / GHSA     | 受影响项目                                                  | CVSS评分 | 漏洞类型                           | 公告链接                                                     |
+| -------------- | ----------------------------------------------------------- | -------- | ---------------------------------- | ------------------------------------------------------------ |
+| CVE-2026-34047 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | 9.9      | CWE-863 越权访问，可致远程代码执行 | [Security Advisory](https://github.com/coollabsio/coolify/security/advisories/GHSA-652w-qv22-2r7c) |
 
 > 更多成果持续更新中。
 
