@@ -36,6 +36,8 @@ TraceLoom 是[沥泉科技](https://www.lichoin.com/)自研的 **AI 自动化源
 | CVE-2026-79318 | [web2py/web2py](https://github.com/web2py/web2py) | 6.5 | CWE-22 路径遍历 | [CVE-2026-79318](https://www.cve.org/CVERecord?id=CVE-2026-79318) |
 | CVE-2026-79319 | [stenciljs/core](https://github.com/stenciljs/core) | 5.3 | CWE-200 敏感信息暴露 | [CVE-2026-79319](https://www.cve.org/CVERecord?id=CVE-2026-79319) |
 | CVE-2026-79320 | [stenciljs/core](https://github.com/stenciljs/core) | 6.1 | CWE-79 跨站脚本（DOM 型） | [CVE-2026-79320](https://www.cve.org/CVERecord?id=CVE-2026-79320) |
+| CVE-2026-100696| [vrana/adminer](https://github.com/vrana/adminer)| 5.3 | CWE-918 服务端请求伪造（Server-Side Request Forgery，SSRF）| [CVE-2026-100696](https://www.cve.org/CVERecord?id=CVE-2026-100696) |
+| CVE-2026-100697| [vrana/adminer](https://github.com/vrana/adminer)| 6.9 | CWE-918 服务端请求伪造（Server-Side Request Forgery，SSRF）| [CVE-2026-100697](https://www.cve.org/CVERecord?id=CVE-2026-100697) |
 > 更多成果持续更新中。
 
 ## 关于沥泉科技
