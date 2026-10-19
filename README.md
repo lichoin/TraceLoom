@@ -38,6 +38,11 @@ TraceLoom 是[沥泉科技](https://www.lichoin.com/)自研的 **AI 自动化源
 | CVE-2026-79320 | [stenciljs/core](https://github.com/stenciljs/core) | 6.1 | CWE-79 跨站脚本（DOM 型） | [CVE-2026-79320](https://www.cve.org/CVERecord?id=CVE-2026-79320) |
 | CVE-2026-100696| [vrana/adminer](https://github.com/vrana/adminer)| 5.3 | CWE-918 服务端请求伪造（Server-Side Request Forgery，SSRF）| [CVE-2026-100696](https://www.cve.org/CVERecord?id=CVE-2026-100696) |
 | CVE-2026-100697| [vrana/adminer](https://github.com/vrana/adminer)| 6.9 | CWE-918 服务端请求伪造（Server-Side Request Forgery，SSRF）| [CVE-2026-100697](https://www.cve.org/CVERecord?id=CVE-2026-100697) |
+| CVE-2026-111627 | [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp) | 8.6 | CWE-863 授权不当（越权命令执行） | [CVE-2026-111627](https://www.cve.org/CVERecord?id=CVE-2026-111627) |
+| CVE-2026-111631 | [10up/distributor](https://github.com/10up/distributor) | 5.3 | CWE-862 缺少授权检查（凭据泄露） | [CVE-2026-111631](https://www.cve.org/CVERecord?id=CVE-2026-111631) |
+| CVE-2026-111625 | [10up/distributor](https://github.com/10up/distributor) | 5.3 | CWE-862 缺少授权检查（跨站越权发布） | [CVE-2026-111625](https://www.cve.org/CVERecord?id=CVE-2026-111625) |
+| CVE-2026-111628 | [10up/distributor](https://github.com/10up/distributor) | 2.3 | CWE-502 不可信数据反序列化（PHP 对象注入） | [CVE-2026-111628](https://www.cve.org/CVERecord?id=CVE-2026-111628) |
+| CVE-2026-111624 | [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) | 6.3 | CWE-862 缺少授权检查（信息泄露） | [CVE-2026-111624](https://www.cve.org/CVERecord?id=CVE-2026-111624) |
 > 更多成果持续更新中。
 
 ## 关于沥泉科技
