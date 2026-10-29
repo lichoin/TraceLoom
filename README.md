@@ -45,7 +45,6 @@ TraceLoom 是[沥泉科技](https://www.lichoin.com/)自研的 **AI 自动化源
 | CVE-2026-111624 | [umbraco/Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS) | 6.3 | CWE-862 缺少授权检查（信息泄露） | [CVE-2026-111624](https://www.cve.org/CVERecord?id=CVE-2026-111624) |
 | CVE-2026-87976 | [apache/nifi](https://github.com/apache/nifi) | 7.2 | CWE-22 路径遍历（扩展包存储目录逃逸） | [CVE-2026-87976](https://www.cve.org/CVERecord?id=CVE-2026-87976) |
 
-注：此处 **7.2 是 CNA 公布的 CVSS 4.0 分数**。[评分来源](https://nvd.nist.gov/vuln/detail/CVE-2026-87976)
 > 更多成果持续更新中。
 
 ## 关于沥泉科技
